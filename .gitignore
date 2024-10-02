@@ -1,0 +1,8 @@
+node_modules
+
+package-lock.json
+accounts.json
+// recipients.json
+privateKeys.json
+
+clearBalance.js
