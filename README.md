@@ -34,11 +34,9 @@ The Nillion Airdrop Bot is a sophisticated tool designed specifically for the ef
 
 4. **Run the Bot**:
 
-   - To check the available menu options:
-
-     ```bash
-     npm start
-     ```
+   ```bash
+   npm start
+   ```
 
 ## Usage
 
